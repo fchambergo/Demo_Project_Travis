@@ -1,0 +1,14 @@
+.navbar-collapse {
+    background-color: cornflowerblue;
+}
+
+.menu-item {
+    height: 1000px;
+    background-color: gray;
+}
+
+@media only screen and (max-width: 992px) {
+    .menu-item {
+        width: 500px;
+    }
+}
